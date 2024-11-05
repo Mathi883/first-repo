@@ -1,7 +1,8 @@
 import streamlit as st
+import segno as sg
 
 st.title("Qr-Code Generator")
-import segno as sg
+
 
 textinput = st.text_input("What text should be in the qr?")
 
