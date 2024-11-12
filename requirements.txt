@@ -1,6 +1,6 @@
-time
-numpy
+pillow
 streamlit
-opencv-python
+opencv-python-headless
 segno
+qrcode-artistic
 
