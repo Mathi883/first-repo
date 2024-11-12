@@ -22,5 +22,4 @@ def decode_qrcode():
         #decode the qr code
         detector = cv2.QRCodeDetector()
         decoded_info, point, straight_qr = detector.detectAndDecode(opencv_image)
-        st.write(f"Your QRCode contained {decoded_info}")
-        st.write(straight_qr)
+        st.write(f"Your QRCode contained {decoded_info}") 
