@@ -46,5 +46,5 @@ def qrcodegenerator():
     # you can play around with markdowns
     # check out the code in github
     st.markdown(
-        "<br><hr><center>Made with ❤️ by <a href='mailto:mathis.schraeder@stud.leuphana.de?subject=QRCode Generator WebApp!&body=Please specify the issue you are facing with the app.'><strong>Mathis Schräder</strong></a><br><br>Sarah is a Student at Leuphana Uni.</center><hr>",
+        "<br><hr><center>Made with ❤️ by <a href='mailto:mathis.schraeder@stud.leuphana.de?subject=QRCode Generator WebApp!&body=Please specify the issue you are facing with the app.'><strong>Mathis Schräder</strong></a><br><br>Mathis is a Student at Leuphana Uni.</center><hr>",
         unsafe_allow_html=True)
