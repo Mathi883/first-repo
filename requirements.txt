@@ -1,9 +1,6 @@
-pandas
-plotly
+time
+numpy
 streamlit
-yfinance
-pandas-datareader
-prophet
-cv2
 opencv-python
+segno
 
