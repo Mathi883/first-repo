@@ -3,4 +3,5 @@ streamlit
 opencv-python-headless
 segno
 qrcode-artistic
-
+hugchat
+pymongo
